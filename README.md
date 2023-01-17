@@ -4,7 +4,7 @@ A new Flutter project known as Similar login.
 
 ## Getting Started
 
-This project is based on Linio app, exactly their login.
+This project is based on Linio app, exactly its login.
 
 A few resources to get you started if this is your first Flutter project:
 
