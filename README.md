@@ -1,10 +1,10 @@
 # practice
 
-A new Flutter project.
+A new Flutter project known as Similar login.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is based on Linio app, exactly their login.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![](https://github.com/JLB2459/Similar-Login/blob/main/similar_login.gif)
